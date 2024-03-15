@@ -1,0 +1,5 @@
+Root-0 1NOfkReh41QMSWuJoWASADmAeiFXYSl5s https://cloud.bawera.my.id/0:
+Media-0 17DPvR9_Q2MbXvs0MEXF0qs3uzLy7SSSt https://cloud.bawera.my.id/0:/Media-0
+Root-1 1oKCHnRUWS1g4DD8EfYSxPt6t_nr7-jro https://cloud.bawera.my.id/1:
+Root-2 1cHo8keTYwUSOeAhBR1XmkSBW098BsFIE https://cloud.bawera.my.id/2:
+Root-3 1Y6Qp1fZlie8IZoQryW62VBhsAi4nuy4a https://cloud.bawera.my.id/3:
